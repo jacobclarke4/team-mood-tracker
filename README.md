@@ -1,12 +1,12 @@
 
 <div>
-  <a href='https://mycooknook.com/'>
+  <a href='https://team-mood-tracker-1098137332455.us-central1.run.app'>
     <img src ='/public/Logo/moodLogo.svg' width='300' alt='Cooknook Header'> </img>
   </a>
 </div>
 <br></br>
 
-[Website](https://www.mycooknook.com)
+[https://team-mood-tracker-1098137332455.us-central1.run.app](https://team-mood-tracker-1098137332455.us-central1.run.app)
 
 ## TL;DR
 - A production-grade **Team Mood Tracker Dashboard** for monitoring team wellbeing, mood, and energy trends.  
