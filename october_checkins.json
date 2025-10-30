@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "86cb5cc4-24ba-4f3d-b2de-c2bf47f7423f",
+    "team_member_id": "1",
+    "mood_rating": 5,
+    "energy_level": 2,
+    "notes": "Team collaboration was great today.",
+    "checkin_date": "2025-10-01T00:00:00Z",
+    "created_at": "2025-10-01T14:30:00.000000Z"
+  },
+  {
+    "id": "fddfe40d-adf6-48db-9dd8-b7e565f92f4b",
+    "team_member_id": "1",
+    "mood_rating": 5,
+    "energy_level": 2,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-02T00:00:00Z",
+    "created_at": "2025-10-02T19:16:00.000000Z"
+  },
+  {
+    "id": "17669b06-816c-48d9-8abd-a4a59d8fc221",
+    "team_member_id": "1",
+    "mood_rating": 4,
+    "energy_level": 4,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-03T00:00:00Z",
+    "created_at": "2025-10-03T11:00:00.000000Z"
+  },
+  {
+    "id": "abedb190-0b4a-4fc8-b09c-53288ea57209",
+    "team_member_id": "1",
+    "mood_rating": 3,
+    "energy_level": 4,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-04T00:00:00Z",
+    "created_at": "2025-10-04T14:46:00.000000Z"
+  },
+  {
+    "id": "a91e86e2-ab80-4622-9686-1d0865b4bfc9",
+    "team_member_id": "1",
+    "mood_rating": 4,
+    "energy_level": 4,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-05T00:00:00Z",
+    "created_at": "2025-10-05T09:17:00.000000Z"
+  },
+  {
+    "id": "6e943a66-893c-4b1b-84f8-700450a815c1",
+    "team_member_id": "1",
+    "mood_rating": 3,
+    "energy_level": 3,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-06T00:00:00Z",
+    "created_at": "2025-10-06T10:10:00.000000Z"
+  },
+  {
+    "id": "2dcc719c-6b49-4b5c-9659-227f7c5a2e22",
+    "team_member_id": "1",
+    "mood_rating": 5,
+    "energy_level": 2,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-07T00:00:00Z",
+    "created_at": "2025-10-07T09:51:00.000000Z"
+  },
+  {
+    "id": "2f67801e-d02e-4cb4-85bf-29f0382367d9",
+    "team_member_id": "1",
+    "mood_rating": 5,
+    "energy_level": 5,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-08T00:00:00Z",
+    "created_at": "2025-10-08T14:25:00.000000Z"
+  },
+  {
+    "id": "1dfd4b45-5d16-48a7-aac0-ff7842c8d7fb",
+    "team_member_id": "1",
+    "mood_rating": 5,
+    "energy_level": 3,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-09T00:00:00Z",
+    "created_at": "2025-10-09T13:53:00.000000Z"
+  },
+  {
+    "id": "f877c2d1-b8e3-4a5a-bd18-8b932ab3ca38",
+    "team_member_id": "1",
+    "mood_rating": 5,
+    "energy_level": 3,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-10T00:00:00Z",
+    "created_at": "2025-10-10T15:50:00.000000Z"
+  },
+  {
+    "id": "daaa8e97-dc6e-47d9-bf64-2661b616d744",
+    "team_member_id": "1",
+    "mood_rating": 4,
+    "energy_level": 4,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-11T00:00:00Z",
+    "created_at": "2025-10-11T22:35:00.000000Z"
+  },
+  {
+    "id": "80c96c6c-3016-4b01-b8fe-6a8c4f979d22",
+    "team_member_id": "1",
+    "mood_rating": 3,
+    "energy_level": 4,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-12T00:00:00Z",
+    "created_at": "2025-10-12T12:21:00.000000Z"
+  },
+  {
+    "id": "d9169268-ea7b-47ad-9a0a-8edf1aff7982",
+    "team_member_id": "1",
+    "mood_rating": 5,
+    "energy_level": 5,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-13T00:00:00Z",
+    "created_at": "2025-10-13T22:47:00.000000Z"
+  },
+  {
+    "id": "d17f812a-c939-47be-96fd-340cf2aef6b9",
+    "team_member_id": "1",
+    "mood_rating": 1,
+    "energy_level": 2,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-14T00:00:00Z",
+    "created_at": "2025-10-14T10:51:00.000000Z"
+  },
+  {
+    "id": "e30e18ae-b187-4cf6-8699-4efea16c8dfe",
+    "team_member_id": "1",
+    "mood_rating": 5,
+    "energy_level": 4,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-15T00:00:00Z",
+    "created_at": "2025-10-15T17:03:00.000000Z"
+  },
+  {
+    "id": "1d824bfc-0dac-4a42-90c7-933daf75e4b7",
+    "team_member_id": "1",
+    "mood_rating": 3,
+    "energy_level": 5,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-16T00:00:00Z",
+    "created_at": "2025-10-16T14:16:00.000000Z"
+  },
+  {
+    "id": "4646786e-354a-472d-ad21-f0207b7b563e",
+    "team_member_id": "1",
+    "mood_rating": 5,
+    "energy_level": 2,
+    "notes": "Team collaboration was great today.",
+    "checkin_date": "2025-10-17T00:00:00Z",
+    "created_at": "2025-10-17T19:47:00.000000Z"
+  },
+  {
+    "id": "2b7b434d-5287-405e-a358-5f29f74057e4",
+    "team_member_id": "1",
+    "mood_rating": 3,
+    "energy_level": 5,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-18T00:00:00Z",
+    "created_at": "2025-10-18T09:18:00.000000Z"
+  },
+  {
+    "id": "c567519b-79a9-44d6-af89-73f4941f94b2",
+    "team_member_id": "1",
+    "mood_rating": 2,
+    "energy_level": 4,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-19T00:00:00Z",
+    "created_at": "2025-10-19T17:15:00.000000Z"
+  },
+  {
+    "id": "18b098e3-e72d-4781-a051-fddcc6650891",
+    "team_member_id": "1",
+    "mood_rating": 2,
+    "energy_level": 2,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-20T00:00:00Z",
+    "created_at": "2025-10-20T19:13:00.000000Z"
+  },
+  {
+    "id": "3f8f81c8-7572-4f29-addb-c03ced41281d",
+    "team_member_id": "1",
+    "mood_rating": 3,
+    "energy_level": 2,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-21T00:00:00Z",
+    "created_at": "2025-10-21T10:00:00.000000Z"
+  },
+  {
+    "id": "294b1231-fc60-49b7-a5cd-849792e3b335",
+    "team_member_id": "1",
+    "mood_rating": 4,
+    "energy_level": 1,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-22T00:00:00Z",
+    "created_at": "2025-10-22T11:04:00.000000Z"
+  },
+  {
+    "id": "81c5a20f-3c7f-425b-83f5-c56f8e855f09",
+    "team_member_id": "1",
+    "mood_rating": 5,
+    "energy_level": 3,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-23T00:00:00Z",
+    "created_at": "2025-10-23T12:06:00.000000Z"
+  },
+  {
+    "id": "fe7d9002-96e8-4121-9d42-217335c924a6",
+    "team_member_id": "1",
+    "mood_rating": 3,
+    "energy_level": 5,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-24T00:00:00Z",
+    "created_at": "2025-10-24T08:15:00.000000Z"
+  },
+  {
+    "id": "92c57d8e-1904-4967-a287-2617e4d70df3",
+    "team_member_id": "1",
+    "mood_rating": 1,
+    "energy_level": 3,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-25T00:00:00Z",
+    "created_at": "2025-10-25T19:55:00.000000Z"
+  },
+  {
+    "id": "2badbeb8-d0df-42d3-b9bc-15bbba77dcfc",
+    "team_member_id": "1",
+    "mood_rating": 4,
+    "energy_level": 5,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-26T00:00:00Z",
+    "created_at": "2025-10-26T08:13:00.000000Z"
+  },
+  {
+    "id": "fa01f11e-336f-4837-9eff-ff532dd96e5b",
+    "team_member_id": "1",
+    "mood_rating": 1,
+    "energy_level": 4,
+    "notes": "Excited about the new sprint!",
+    "checkin_date": "2025-10-27T00:00:00Z",
+    "created_at": "2025-10-27T10:00:00.000000Z"
+  },
+  {
+    "id": "1d4b33d1-fde1-4b87-b297-0f2696022759",
+    "team_member_id": "1",
+    "mood_rating": 1,
+    "energy_level": 3,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-28T00:00:00Z",
+    "created_at": "2025-10-28T09:15:00.000000Z"
+  },
+  {
+    "id": "7430201a-0b8b-47bd-bcc7-6b58da09fe5c",
+    "team_member_id": "1",
+    "mood_rating": 5,
+    "energy_level": 4,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-29T00:00:00Z",
+    "created_at": "2025-10-29T22:38:00.000000Z"
+  },
+  {
+    "id": "3f119a31-5c16-4d28-b878-d48b34878593",
+    "team_member_id": "1",
+    "mood_rating": 1,
+    "energy_level": 2,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-30T00:00:00Z",
+    "created_at": "2025-10-30T11:28:00.000000Z"
+  },
+  {
+    "id": "5cafd048-7ec7-4adf-95dc-a2b208ee4123",
+    "team_member_id": "1",
+    "mood_rating": 5,
+    "energy_level": 3,
+    "notes": "Excited about the new sprint!",
+    "checkin_date": "2025-10-31T00:00:00Z",
+    "created_at": "2025-10-31T14:11:00.000000Z"
+  },
+  {
+    "id": "ed0867c2-43e9-47bf-bf77-b006fbbbcfe9",
+    "team_member_id": "2",
+    "mood_rating": 1,
+    "energy_level": 3,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-01T00:00:00Z",
+    "created_at": "2025-10-01T22:11:00.000000Z"
+  },
+  {
+    "id": "85d07136-1c42-46e6-b3c8-3265c0fc1c82",
+    "team_member_id": "2",
+    "mood_rating": 3,
+    "energy_level": 4,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-02T00:00:00Z",
+    "created_at": "2025-10-02T21:52:00.000000Z"
+  },
+  {
+    "id": "362dbe84-656c-4ff1-9b99-da355a53ebb1",
+    "team_member_id": "2",
+    "mood_rating": 1,
+    "energy_level": 4,
+    "notes": "Excited about the new sprint!",
+    "checkin_date": "2025-10-03T00:00:00Z",
+    "created_at": "2025-10-03T12:34:00.000000Z"
+  },
+  {
+    "id": "870bb298-c7e7-4ac1-b1ee-73b98d3223bf",
+    "team_member_id": "2",
+    "mood_rating": 1,
+    "energy_level": 4,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-04T00:00:00Z",
+    "created_at": "2025-10-04T15:59:00.000000Z"
+  },
+  {
+    "id": "d70de83c-a4c8-4ab2-83ea-695d19701263",
+    "team_member_id": "2",
+    "mood_rating": 1,
+    "energy_level": 2,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-05T00:00:00Z",
+    "created_at": "2025-10-05T22:31:00.000000Z"
+  },
+  {
+    "id": "26456563-ad3d-4e89-9557-431337628186",
+    "team_member_id": "2",
+    "mood_rating": 4,
+    "energy_level": 5,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-06T00:00:00Z",
+    "created_at": "2025-10-06T15:14:00.000000Z"
+  },
+  {
+    "id": "4dfd1da7-9402-4179-bcc5-8975e47bbc04",
+    "team_member_id": "2",
+    "mood_rating": 5,
+    "energy_level": 1,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-07T00:00:00Z",
+    "created_at": "2025-10-07T22:25:00.000000Z"
+  },
+  {
+    "id": "b6d6aad4-0e2f-4a72-9f40-537f1a525302",
+    "team_member_id": "2",
+    "mood_rating": 2,
+    "energy_level": 1,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-08T00:00:00Z",
+    "created_at": "2025-10-08T15:43:00.000000Z"
+  },
+  {
+    "id": "07a13795-a541-4796-a2cd-8488a38a9851",
+    "team_member_id": "2",
+    "mood_rating": 4,
+    "energy_level": 4,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-09T00:00:00Z",
+    "created_at": "2025-10-09T16:51:00.000000Z"
+  },
+  {
+    "id": "2cbc7265-cdc9-41e4-8c2b-7b8615b85094",
+    "team_member_id": "2",
+    "mood_rating": 2,
+    "energy_level": 1,
+    "notes": "Excited about the new sprint!",
+    "checkin_date": "2025-10-10T00:00:00Z",
+    "created_at": "2025-10-10T11:35:00.000000Z"
+  },
+  {
+    "id": "f9f73495-6e78-44fc-983e-7452e52b1e4e",
+    "team_member_id": "2",
+    "mood_rating": 3,
+    "energy_level": 3,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-11T00:00:00Z",
+    "created_at": "2025-10-11T22:57:00.000000Z"
+  },
+  {
+    "id": "756f6c17-4e72-42eb-8c1b-de88f06f4d13",
+    "team_member_id": "2",
+    "mood_rating": 2,
+    "energy_level": 4,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-12T00:00:00Z",
+    "created_at": "2025-10-12T08:41:00.000000Z"
+  },
+  {
+    "id": "9518aed1-f12f-4318-816c-b9cf54d27c08",
+    "team_member_id": "2",
+    "mood_rating": 2,
+    "energy_level": 5,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-13T00:00:00Z",
+    "created_at": "2025-10-13T13:49:00.000000Z"
+  },
+  {
+    "id": "4783ef39-10fa-4b46-9eb6-068f26329364",
+    "team_member_id": "2",
+    "mood_rating": 3,
+    "energy_level": 4,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-14T00:00:00Z",
+    "created_at": "2025-10-14T10:31:00.000000Z"
+  },
+  {
+    "id": "be362bad-6b26-484c-8c4e-09309e0f0584",
+    "team_member_id": "2",
+    "mood_rating": 5,
+    "energy_level": 5,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-15T00:00:00Z",
+    "created_at": "2025-10-15T22:46:00.000000Z"
+  },
+  {
+    "id": "fb182cb7-b97b-4e40-a064-f17d79c6a035",
+    "team_member_id": "2",
+    "mood_rating": 5,
+    "energy_level": 3,
+    "notes": "Team collaboration was great today.",
+    "checkin_date": "2025-10-16T00:00:00Z",
+    "created_at": "2025-10-16T19:06:00.000000Z"
+  },
+  {
+    "id": "ed588fd1-0d62-43f9-8fbd-ad8fcf32f6e9",
+    "team_member_id": "2",
+    "mood_rating": 2,
+    "energy_level": 4,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-17T00:00:00Z",
+    "created_at": "2025-10-17T10:00:00.000000Z"
+  },
+  {
+    "id": "9ac0e3b3-6f46-4867-8862-c2a13374280b",
+    "team_member_id": "2",
+    "mood_rating": 2,
+    "energy_level": 2,
+    "notes": "Excited about the new sprint!",
+    "checkin_date": "2025-10-18T00:00:00Z",
+    "created_at": "2025-10-18T21:47:00.000000Z"
+  },
+  {
+    "id": "b679f093-0c6a-4f06-b2e4-04aff5301f21",
+    "team_member_id": "2",
+    "mood_rating": 2,
+    "energy_level": 3,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-19T00:00:00Z",
+    "created_at": "2025-10-19T15:05:00.000000Z"
+  },
+  {
+    "id": "b1f0e324-2383-45c0-ad3c-7a1deacda868",
+    "team_member_id": "2",
+    "mood_rating": 4,
+    "energy_level": 3,
+    "notes": "Excited about the new sprint!",
+    "checkin_date": "2025-10-20T00:00:00Z",
+    "created_at": "2025-10-20T08:08:00.000000Z"
+  },
+  {
+    "id": "ddeb5f0f-48dc-404f-83f8-254242b91a5a",
+    "team_member_id": "2",
+    "mood_rating": 5,
+    "energy_level": 2,
+    "notes": "Team collaboration was great today.",
+    "checkin_date": "2025-10-21T00:00:00Z",
+    "created_at": "2025-10-21T13:18:00.000000Z"
+  },
+  {
+    "id": "6b6ac055-f2b7-49e5-83a5-820973b04de2",
+    "team_member_id": "2",
+    "mood_rating": 1,
+    "energy_level": 4,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-22T00:00:00Z",
+    "created_at": "2025-10-22T15:06:00.000000Z"
+  },
+  {
+    "id": "cf6a7104-0919-4319-8ca0-e6b9c5a348de",
+    "team_member_id": "2",
+    "mood_rating": 4,
+    "energy_level": 4,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-23T00:00:00Z",
+    "created_at": "2025-10-23T22:48:00.000000Z"
+  },
+  {
+    "id": "4cd4a139-804b-4596-a2ba-79b031ab9816",
+    "team_member_id": "2",
+    "mood_rating": 3,
+    "energy_level": 3,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-24T00:00:00Z",
+    "created_at": "2025-10-24T08:31:00.000000Z"
+  },
+  {
+    "id": "e8e49491-56b6-4841-a49e-0faa2569736f",
+    "team_member_id": "2",
+    "mood_rating": 4,
+    "energy_level": 2,
+    "notes": "Team collaboration was great today.",
+    "checkin_date": "2025-10-25T00:00:00Z",
+    "created_at": "2025-10-25T15:01:00.000000Z"
+  },
+  {
+    "id": "d60fe3a5-28e8-4668-81ce-e75438947b8d",
+    "team_member_id": "2",
+    "mood_rating": 2,
+    "energy_level": 2,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-26T00:00:00Z",
+    "created_at": "2025-10-26T20:18:00.000000Z"
+  },
+  {
+    "id": "c538f211-699e-4664-8100-11f17cee29e6",
+    "team_member_id": "2",
+    "mood_rating": 2,
+    "energy_level": 1,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-27T00:00:00Z",
+    "created_at": "2025-10-27T19:04:00.000000Z"
+  },
+  {
+    "id": "08fd1b65-f2bf-4931-848a-695587e51509",
+    "team_member_id": "2",
+    "mood_rating": 1,
+    "energy_level": 5,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-28T00:00:00Z",
+    "created_at": "2025-10-28T18:01:00.000000Z"
+  },
+  {
+    "id": "8686af05-7adf-4e28-88a6-b5cb713bd83b",
+    "team_member_id": "2",
+    "mood_rating": 5,
+    "energy_level": 1,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-29T00:00:00Z",
+    "created_at": "2025-10-29T13:28:00.000000Z"
+  },
+  {
+    "id": "0e6a6ef8-0a43-4e14-ba16-7b21ad45eff4",
+    "team_member_id": "2",
+    "mood_rating": 1,
+    "energy_level": 1,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-30T00:00:00Z",
+    "created_at": "2025-10-30T15:55:00.000000Z"
+  },
+  {
+    "id": "c435df28-7b42-4f17-8dce-953bfa488910",
+    "team_member_id": "2",
+    "mood_rating": 3,
+    "energy_level": 3,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-31T00:00:00Z",
+    "created_at": "2025-10-31T20:16:00.000000Z"
+  },
+  {
+    "id": "1c48ac8b-3b5a-40c0-b481-85f1891d01d3",
+    "team_member_id": "3",
+    "mood_rating": 5,
+    "energy_level": 4,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-01T00:00:00Z",
+    "created_at": "2025-10-01T20:09:00.000000Z"
+  },
+  {
+    "id": "154be87f-b919-4cbe-b12b-4fc0e9249cea",
+    "team_member_id": "3",
+    "mood_rating": 1,
+    "energy_level": 3,
+    "notes": "Team collaboration was great today.",
+    "checkin_date": "2025-10-02T00:00:00Z",
+    "created_at": "2025-10-02T21:11:00.000000Z"
+  },
+  {
+    "id": "04ca6da8-f6c6-4f8c-858e-552ec8bc653b",
+    "team_member_id": "3",
+    "mood_rating": 1,
+    "energy_level": 4,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-03T00:00:00Z",
+    "created_at": "2025-10-03T20:08:00.000000Z"
+  },
+  {
+    "id": "24cb315f-7e04-46d4-a3b6-9d52adbd8274",
+    "team_member_id": "3",
+    "mood_rating": 1,
+    "energy_level": 1,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-04T00:00:00Z",
+    "created_at": "2025-10-04T15:13:00.000000Z"
+  },
+  {
+    "id": "742b3043-9658-48e6-9cf6-d45b61e54c93",
+    "team_member_id": "3",
+    "mood_rating": 2,
+    "energy_level": 2,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-05T00:00:00Z",
+    "created_at": "2025-10-05T15:26:00.000000Z"
+  },
+  {
+    "id": "3f34eef5-8cd1-41dc-9653-edc99fc9f20d",
+    "team_member_id": "3",
+    "mood_rating": 5,
+    "energy_level": 2,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-06T00:00:00Z",
+    "created_at": "2025-10-06T13:23:00.000000Z"
+  },
+  {
+    "id": "4b619284-abb8-4f13-8efe-e55f0846170f",
+    "team_member_id": "3",
+    "mood_rating": 5,
+    "energy_level": 4,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-07T00:00:00Z",
+    "created_at": "2025-10-07T11:05:00.000000Z"
+  },
+  {
+    "id": "0e399952-1f40-42f0-92c1-df0773a769a9",
+    "team_member_id": "3",
+    "mood_rating": 4,
+    "energy_level": 3,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-08T00:00:00Z",
+    "created_at": "2025-10-08T16:01:00.000000Z"
+  },
+  {
+    "id": "9d780a34-078b-4774-b097-09aa60d67af1",
+    "team_member_id": "3",
+    "mood_rating": 2,
+    "energy_level": 3,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-09T00:00:00Z",
+    "created_at": "2025-10-09T14:04:00.000000Z"
+  },
+  {
+    "id": "6e5de3c0-61b9-4fce-a320-c73bcac89fee",
+    "team_member_id": "3",
+    "mood_rating": 1,
+    "energy_level": 3,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-10T00:00:00Z",
+    "created_at": "2025-10-10T13:21:00.000000Z"
+  },
+  {
+    "id": "dcba66da-f55f-4f7a-a4f1-3dc509fd81f6",
+    "team_member_id": "3",
+    "mood_rating": 5,
+    "energy_level": 5,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-11T00:00:00Z",
+    "created_at": "2025-10-11T14:15:00.000000Z"
+  },
+  {
+    "id": "0f2ee26e-a0d9-4148-bae5-4d91bdbad693",
+    "team_member_id": "3",
+    "mood_rating": 1,
+    "energy_level": 4,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-12T00:00:00Z",
+    "created_at": "2025-10-12T16:12:00.000000Z"
+  },
+  {
+    "id": "4eae573e-9f30-44de-8334-3e608d0f3a37",
+    "team_member_id": "3",
+    "mood_rating": 4,
+    "energy_level": 3,
+    "notes": "Team collaboration was great today.",
+    "checkin_date": "2025-10-13T00:00:00Z",
+    "created_at": "2025-10-13T10:44:00.000000Z"
+  },
+  {
+    "id": "9ae398e4-9d69-48f4-bb6d-547d536fa1a6",
+    "team_member_id": "3",
+    "mood_rating": 5,
+    "energy_level": 1,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-14T00:00:00Z",
+    "created_at": "2025-10-14T08:30:00.000000Z"
+  },
+  {
+    "id": "58c47315-d9da-4b21-a717-bb3f8f609715",
+    "team_member_id": "3",
+    "mood_rating": 3,
+    "energy_level": 1,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-15T00:00:00Z",
+    "created_at": "2025-10-15T11:01:00.000000Z"
+  },
+  {
+    "id": "b623a98d-4566-42c8-b41c-c47bcf51c0a1",
+    "team_member_id": "3",
+    "mood_rating": 2,
+    "energy_level": 1,
+    "notes": "Excited about the new sprint!",
+    "checkin_date": "2025-10-16T00:00:00Z",
+    "created_at": "2025-10-16T22:46:00.000000Z"
+  },
+  {
+    "id": "e12b4423-2745-4741-a0f1-21ef9c028660",
+    "team_member_id": "3",
+    "mood_rating": 5,
+    "energy_level": 5,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-17T00:00:00Z",
+    "created_at": "2025-10-17T21:47:00.000000Z"
+  },
+  {
+    "id": "8f0475f9-be2b-4af8-acd0-2d9ad21cfd7a",
+    "team_member_id": "3",
+    "mood_rating": 4,
+    "energy_level": 1,
+    "notes": "Team collaboration was great today.",
+    "checkin_date": "2025-10-18T00:00:00Z",
+    "created_at": "2025-10-18T14:57:00.000000Z"
+  },
+  {
+    "id": "02f2d588-0223-4f58-8ec1-56de07ac5c19",
+    "team_member_id": "3",
+    "mood_rating": 3,
+    "energy_level": 5,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-19T00:00:00Z",
+    "created_at": "2025-10-19T10:14:00.000000Z"
+  },
+  {
+    "id": "cc942024-2330-4a9c-afca-c030e5e4a9d7",
+    "team_member_id": "3",
+    "mood_rating": 4,
+    "energy_level": 5,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-20T00:00:00Z",
+    "created_at": "2025-10-20T20:24:00.000000Z"
+  },
+  {
+    "id": "6315b171-ef58-4544-b13a-87ff683a31fa",
+    "team_member_id": "3",
+    "mood_rating": 2,
+    "energy_level": 4,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-21T00:00:00Z",
+    "created_at": "2025-10-21T18:57:00.000000Z"
+  },
+  {
+    "id": "fee919e4-09ce-4e9c-b02d-e42d8fce6979",
+    "team_member_id": "3",
+    "mood_rating": 5,
+    "energy_level": 1,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-22T00:00:00Z",
+    "created_at": "2025-10-22T13:00:00.000000Z"
+  },
+  {
+    "id": "e5c0399e-eb47-4b8d-b86d-c59e1a828dc5",
+    "team_member_id": "3",
+    "mood_rating": 2,
+    "energy_level": 2,
+    "notes": "Team collaboration was great today.",
+    "checkin_date": "2025-10-23T00:00:00Z",
+    "created_at": "2025-10-23T20:44:00.000000Z"
+  },
+  {
+    "id": "1f2b5113-695a-4cf0-a01b-085b28c0c705",
+    "team_member_id": "3",
+    "mood_rating": 2,
+    "energy_level": 5,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-24T00:00:00Z",
+    "created_at": "2025-10-24T21:45:00.000000Z"
+  },
+  {
+    "id": "6e35bdff-4149-4f46-b01a-f3e15ea3aaf6",
+    "team_member_id": "3",
+    "mood_rating": 2,
+    "energy_level": 3,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-25T00:00:00Z",
+    "created_at": "2025-10-25T20:32:00.000000Z"
+  },
+  {
+    "id": "164b5d78-a7fa-48c4-b043-3116dc93af79",
+    "team_member_id": "3",
+    "mood_rating": 5,
+    "energy_level": 1,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-26T00:00:00Z",
+    "created_at": "2025-10-26T21:57:00.000000Z"
+  },
+  {
+    "id": "2b7fb625-45a9-4b04-a34d-1cd75fa5f2db",
+    "team_member_id": "3",
+    "mood_rating": 5,
+    "energy_level": 1,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-27T00:00:00Z",
+    "created_at": "2025-10-27T18:21:00.000000Z"
+  },
+  {
+    "id": "11b811e9-0104-4020-9662-de4a00ed2ce0",
+    "team_member_id": "3",
+    "mood_rating": 3,
+    "energy_level": 1,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-28T00:00:00Z",
+    "created_at": "2025-10-28T14:50:00.000000Z"
+  },
+  {
+    "id": "6f6f86cb-9d22-498a-a834-b79d4e14f5ff",
+    "team_member_id": "3",
+    "mood_rating": 5,
+    "energy_level": 4,
+    "notes": "Team collaboration was great today.",
+    "checkin_date": "2025-10-29T00:00:00Z",
+    "created_at": "2025-10-29T20:59:00.000000Z"
+  },
+  {
+    "id": "5726b935-ec6b-48c2-8f7a-f5101ae026cf",
+    "team_member_id": "3",
+    "mood_rating": 2,
+    "energy_level": 2,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-30T00:00:00Z",
+    "created_at": "2025-10-30T10:17:00.000000Z"
+  },
+  {
+    "id": "b1721542-3535-4bc4-b347-62676e4a2f03",
+    "team_member_id": "3",
+    "mood_rating": 3,
+    "energy_level": 3,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-31T00:00:00Z",
+    "created_at": "2025-10-31T17:00:00.000000Z"
+  },
+  {
+    "id": "93e43f95-0ee2-4e2b-8a6c-8eb4032c9abf",
+    "team_member_id": "4",
+    "mood_rating": 4,
+    "energy_level": 3,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-01T00:00:00Z",
+    "created_at": "2025-10-01T09:16:00.000000Z"
+  },
+  {
+    "id": "fd59b93d-9e19-41b5-af1b-8fd1419a4331",
+    "team_member_id": "4",
+    "mood_rating": 3,
+    "energy_level": 4,
+    "notes": "Excited about the new sprint!",
+    "checkin_date": "2025-10-02T00:00:00Z",
+    "created_at": "2025-10-02T17:34:00.000000Z"
+  },
+  {
+    "id": "ef23f932-bd97-43b5-87b8-4bd215d552a5",
+    "team_member_id": "4",
+    "mood_rating": 3,
+    "energy_level": 1,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-03T00:00:00Z",
+    "created_at": "2025-10-03T12:35:00.000000Z"
+  },
+  {
+    "id": "8fe4ad31-c832-433f-ad04-48e125bfa3e2",
+    "team_member_id": "4",
+    "mood_rating": 5,
+    "energy_level": 1,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-04T00:00:00Z",
+    "created_at": "2025-10-04T22:21:00.000000Z"
+  },
+  {
+    "id": "7627ee01-5f19-4bc7-9aed-03511029d0f4",
+    "team_member_id": "4",
+    "mood_rating": 5,
+    "energy_level": 4,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-05T00:00:00Z",
+    "created_at": "2025-10-05T12:58:00.000000Z"
+  },
+  {
+    "id": "49a83051-bd5b-41b7-97e7-7d210f7b4724",
+    "team_member_id": "4",
+    "mood_rating": 3,
+    "energy_level": 2,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-06T00:00:00Z",
+    "created_at": "2025-10-06T17:13:00.000000Z"
+  },
+  {
+    "id": "2810352a-95dc-48cd-9fc0-91126b7f618a",
+    "team_member_id": "4",
+    "mood_rating": 3,
+    "energy_level": 4,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-07T00:00:00Z",
+    "created_at": "2025-10-07T14:56:00.000000Z"
+  },
+  {
+    "id": "909ddbd8-4cd3-48eb-af87-f670aaf4a6d9",
+    "team_member_id": "4",
+    "mood_rating": 4,
+    "energy_level": 3,
+    "notes": "Excited about the new sprint!",
+    "checkin_date": "2025-10-08T00:00:00Z",
+    "created_at": "2025-10-08T19:03:00.000000Z"
+  },
+  {
+    "id": "909e110a-1f22-469a-9b74-98527909d221",
+    "team_member_id": "4",
+    "mood_rating": 2,
+    "energy_level": 3,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-09T00:00:00Z",
+    "created_at": "2025-10-09T19:42:00.000000Z"
+  },
+  {
+    "id": "543b8dda-a5b9-4f89-ab41-28463d49f4cb",
+    "team_member_id": "4",
+    "mood_rating": 3,
+    "energy_level": 2,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-10T00:00:00Z",
+    "created_at": "2025-10-10T22:09:00.000000Z"
+  },
+  {
+    "id": "d0657d66-0834-4e8a-8fe1-f9ce46a79edf",
+    "team_member_id": "4",
+    "mood_rating": 4,
+    "energy_level": 4,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-11T00:00:00Z",
+    "created_at": "2025-10-11T17:06:00.000000Z"
+  },
+  {
+    "id": "30b28c62-d2bb-43b9-8a42-7a5d4e95e64e",
+    "team_member_id": "4",
+    "mood_rating": 1,
+    "energy_level": 3,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-12T00:00:00Z",
+    "created_at": "2025-10-12T16:17:00.000000Z"
+  },
+  {
+    "id": "9d36a9a9-d5f2-47e3-b188-1b62c1e531a3",
+    "team_member_id": "4",
+    "mood_rating": 4,
+    "energy_level": 5,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-13T00:00:00Z",
+    "created_at": "2025-10-13T19:21:00.000000Z"
+  },
+  {
+    "id": "3bc1569d-980c-4296-8c15-49666ad96969",
+    "team_member_id": "4",
+    "mood_rating": 4,
+    "energy_level": 3,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-14T00:00:00Z",
+    "created_at": "2025-10-14T09:48:00.000000Z"
+  },
+  {
+    "id": "5d8d453c-175c-4643-a4a4-485a57a0f878",
+    "team_member_id": "4",
+    "mood_rating": 1,
+    "energy_level": 4,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-15T00:00:00Z",
+    "created_at": "2025-10-15T21:31:00.000000Z"
+  },
+  {
+    "id": "b0cd9c74-e6c3-4849-be78-2870ac57c28b",
+    "team_member_id": "4",
+    "mood_rating": 2,
+    "energy_level": 5,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-16T00:00:00Z",
+    "created_at": "2025-10-16T18:05:00.000000Z"
+  },
+  {
+    "id": "99b692b9-231b-4016-a2ab-e189351621e5",
+    "team_member_id": "4",
+    "mood_rating": 5,
+    "energy_level": 5,
+    "notes": "Excited about the new sprint!",
+    "checkin_date": "2025-10-17T00:00:00Z",
+    "created_at": "2025-10-17T14:05:00.000000Z"
+  },
+  {
+    "id": "c6902316-8ff3-4a3b-9d19-9701930e62c5",
+    "team_member_id": "4",
+    "mood_rating": 5,
+    "energy_level": 1,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-18T00:00:00Z",
+    "created_at": "2025-10-18T10:52:00.000000Z"
+  },
+  {
+    "id": "90b2dd9f-d157-4b55-b811-9753d5d11184",
+    "team_member_id": "4",
+    "mood_rating": 3,
+    "energy_level": 4,
+    "notes": "Team collaboration was great today.",
+    "checkin_date": "2025-10-19T00:00:00Z",
+    "created_at": "2025-10-19T12:57:00.000000Z"
+  },
+  {
+    "id": "16c6abaf-bf6e-42e5-906c-d4dec3c540f2",
+    "team_member_id": "4",
+    "mood_rating": 3,
+    "energy_level": 5,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-20T00:00:00Z",
+    "created_at": "2025-10-20T12:45:00.000000Z"
+  },
+  {
+    "id": "873c4195-366b-4ad0-92a2-41300837639c",
+    "team_member_id": "4",
+    "mood_rating": 2,
+    "energy_level": 4,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-21T00:00:00Z",
+    "created_at": "2025-10-21T19:38:00.000000Z"
+  },
+  {
+    "id": "94bd5c91-acf9-4594-9149-0a1b7a000bbc",
+    "team_member_id": "4",
+    "mood_rating": 5,
+    "energy_level": 2,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-22T00:00:00Z",
+    "created_at": "2025-10-22T12:51:00.000000Z"
+  },
+  {
+    "id": "d7490d1a-6831-41dd-87b3-d31f9954e27b",
+    "team_member_id": "4",
+    "mood_rating": 4,
+    "energy_level": 5,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-23T00:00:00Z",
+    "created_at": "2025-10-23T12:46:00.000000Z"
+  },
+  {
+    "id": "cd7170ca-a2e2-406b-9931-564bec8ebaab",
+    "team_member_id": "4",
+    "mood_rating": 5,
+    "energy_level": 1,
+    "notes": "Team collaboration was great today.",
+    "checkin_date": "2025-10-24T00:00:00Z",
+    "created_at": "2025-10-24T09:41:00.000000Z"
+  },
+  {
+    "id": "4517252d-2e6d-4e92-8b76-630f8c436193",
+    "team_member_id": "4",
+    "mood_rating": 2,
+    "energy_level": 5,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-25T00:00:00Z",
+    "created_at": "2025-10-25T18:02:00.000000Z"
+  },
+  {
+    "id": "6c8b9d21-a097-4cd1-8100-901354f19a53",
+    "team_member_id": "4",
+    "mood_rating": 3,
+    "energy_level": 4,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-26T00:00:00Z",
+    "created_at": "2025-10-26T17:41:00.000000Z"
+  },
+  {
+    "id": "777f7072-9c16-427e-913a-00f1e9117ed1",
+    "team_member_id": "4",
+    "mood_rating": 4,
+    "energy_level": 1,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-27T00:00:00Z",
+    "created_at": "2025-10-27T12:45:00.000000Z"
+  },
+  {
+    "id": "af599b4f-6012-4036-bf43-78f8fd7ab4e6",
+    "team_member_id": "4",
+    "mood_rating": 4,
+    "energy_level": 5,
+    "notes": "Team collaboration was great today.",
+    "checkin_date": "2025-10-28T00:00:00Z",
+    "created_at": "2025-10-28T08:30:00.000000Z"
+  },
+  {
+    "id": "11fd3a8e-5c78-44a2-9741-7afd8802d202",
+    "team_member_id": "4",
+    "mood_rating": 1,
+    "energy_level": 5,
+    "notes": "Excited about the new sprint!",
+    "checkin_date": "2025-10-29T00:00:00Z",
+    "created_at": "2025-10-29T12:43:00.000000Z"
+  },
+  {
+    "id": "f4188cbd-924c-4221-81b8-7477e61ff891",
+    "team_member_id": "4",
+    "mood_rating": 5,
+    "energy_level": 3,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-30T00:00:00Z",
+    "created_at": "2025-10-30T21:05:00.000000Z"
+  },
+  {
+    "id": "df0f3f55-628b-4eec-961c-4dcf6d955448",
+    "team_member_id": "4",
+    "mood_rating": 3,
+    "energy_level": 4,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-31T00:00:00Z",
+    "created_at": "2025-10-31T12:24:00.000000Z"
+  },
+  {
+    "id": "52a5c0d3-964c-40af-aa9b-ae97587e1e40",
+    "team_member_id": "5",
+    "mood_rating": 2,
+    "energy_level": 4,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-01T00:00:00Z",
+    "created_at": "2025-10-01T17:53:00.000000Z"
+  },
+  {
+    "id": "6cf8e87c-2f5e-4cac-a57f-173ec9f21697",
+    "team_member_id": "5",
+    "mood_rating": 5,
+    "energy_level": 5,
+    "notes": "Team collaboration was great today.",
+    "checkin_date": "2025-10-02T00:00:00Z",
+    "created_at": "2025-10-02T10:48:00.000000Z"
+  },
+  {
+    "id": "3f0db6c3-6f09-4540-a695-855a03fe9fc5",
+    "team_member_id": "5",
+    "mood_rating": 3,
+    "energy_level": 2,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-03T00:00:00Z",
+    "created_at": "2025-10-03T17:02:00.000000Z"
+  },
+  {
+    "id": "cd0b485a-3282-4d79-80e4-e960f9487b72",
+    "team_member_id": "5",
+    "mood_rating": 5,
+    "energy_level": 2,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-04T00:00:00Z",
+    "created_at": "2025-10-04T11:57:00.000000Z"
+  },
+  {
+    "id": "96e19a54-8da9-4a99-ad73-a0044823bc04",
+    "team_member_id": "5",
+    "mood_rating": 2,
+    "energy_level": 1,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-05T00:00:00Z",
+    "created_at": "2025-10-05T14:43:00.000000Z"
+  },
+  {
+    "id": "3d0c4d9d-13e7-40b6-a483-a7594aff4f1e",
+    "team_member_id": "5",
+    "mood_rating": 3,
+    "energy_level": 4,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-06T00:00:00Z",
+    "created_at": "2025-10-06T13:58:00.000000Z"
+  },
+  {
+    "id": "031bb427-db03-458a-b60d-f10858a447a4",
+    "team_member_id": "5",
+    "mood_rating": 1,
+    "energy_level": 2,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-07T00:00:00Z",
+    "created_at": "2025-10-07T19:59:00.000000Z"
+  },
+  {
+    "id": "c98be76e-548b-45eb-9161-362a4a668aee",
+    "team_member_id": "5",
+    "mood_rating": 5,
+    "energy_level": 3,
+    "notes": "Team collaboration was great today.",
+    "checkin_date": "2025-10-08T00:00:00Z",
+    "created_at": "2025-10-08T09:41:00.000000Z"
+  },
+  {
+    "id": "d421ac1a-c2f2-4e3b-8a70-e399a24dd219",
+    "team_member_id": "5",
+    "mood_rating": 3,
+    "energy_level": 5,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-09T00:00:00Z",
+    "created_at": "2025-10-09T21:37:00.000000Z"
+  },
+  {
+    "id": "5346be9a-9009-4244-bc05-4e8b8d230ada",
+    "team_member_id": "5",
+    "mood_rating": 2,
+    "energy_level": 3,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-10T00:00:00Z",
+    "created_at": "2025-10-10T15:49:00.000000Z"
+  },
+  {
+    "id": "522c2225-12a8-48fe-8dce-1c10786637c2",
+    "team_member_id": "5",
+    "mood_rating": 1,
+    "energy_level": 5,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-11T00:00:00Z",
+    "created_at": "2025-10-11T20:56:00.000000Z"
+  },
+  {
+    "id": "64ab7b15-f2a4-4505-9508-06bd28df5f99",
+    "team_member_id": "5",
+    "mood_rating": 2,
+    "energy_level": 5,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-12T00:00:00Z",
+    "created_at": "2025-10-12T11:39:00.000000Z"
+  },
+  {
+    "id": "d4d4dcbd-5b28-405f-aea4-4ac0b127eb54",
+    "team_member_id": "5",
+    "mood_rating": 1,
+    "energy_level": 1,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-13T00:00:00Z",
+    "created_at": "2025-10-13T17:35:00.000000Z"
+  },
+  {
+    "id": "5c037af4-1da6-4781-9ead-96e15951eeb7",
+    "team_member_id": "5",
+    "mood_rating": 1,
+    "energy_level": 2,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-14T00:00:00Z",
+    "created_at": "2025-10-14T17:20:00.000000Z"
+  },
+  {
+    "id": "da383193-e163-4dc5-b9ee-44b2b0c97514",
+    "team_member_id": "5",
+    "mood_rating": 2,
+    "energy_level": 5,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-15T00:00:00Z",
+    "created_at": "2025-10-15T21:00:00.000000Z"
+  },
+  {
+    "id": "b2f4e180-3d91-4ec5-af89-c1ac4f423e70",
+    "team_member_id": "5",
+    "mood_rating": 3,
+    "energy_level": 1,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-16T00:00:00Z",
+    "created_at": "2025-10-16T19:58:00.000000Z"
+  },
+  {
+    "id": "320f333d-bbad-4ff7-9df3-ae78f86690ee",
+    "team_member_id": "5",
+    "mood_rating": 1,
+    "energy_level": 3,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-17T00:00:00Z",
+    "created_at": "2025-10-17T13:04:00.000000Z"
+  },
+  {
+    "id": "bbf1aa76-713e-4015-9b37-c55f928fb56a",
+    "team_member_id": "5",
+    "mood_rating": 3,
+    "energy_level": 3,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-18T00:00:00Z",
+    "created_at": "2025-10-18T20:18:00.000000Z"
+  },
+  {
+    "id": "9b4967ac-da56-4abc-a810-6a1623304e3f",
+    "team_member_id": "5",
+    "mood_rating": 1,
+    "energy_level": 5,
+    "notes": "Excited about the new sprint!",
+    "checkin_date": "2025-10-19T00:00:00Z",
+    "created_at": "2025-10-19T16:07:00.000000Z"
+  },
+  {
+    "id": "1f521b79-3c7d-481b-b977-fdb9f973dfba",
+    "team_member_id": "5",
+    "mood_rating": 3,
+    "energy_level": 2,
+    "notes": "Focused and productive.",
+    "checkin_date": "2025-10-20T00:00:00Z",
+    "created_at": "2025-10-20T12:29:00.000000Z"
+  },
+  {
+    "id": "4a67bca7-d811-42a5-b920-1b54ce22215d",
+    "team_member_id": "5",
+    "mood_rating": 2,
+    "energy_level": 5,
+    "notes": "Team collaboration was great today.",
+    "checkin_date": "2025-10-21T00:00:00Z",
+    "created_at": "2025-10-21T12:38:00.000000Z"
+  },
+  {
+    "id": "056ba724-20af-4802-b4d0-ca7b5ac54c82",
+    "team_member_id": "5",
+    "mood_rating": 1,
+    "energy_level": 1,
+    "notes": "Excited about the new sprint!",
+    "checkin_date": "2025-10-22T00:00:00Z",
+    "created_at": "2025-10-22T09:41:00.000000Z"
+  },
+  {
+    "id": "1016c3d9-23b7-4c1a-ab36-a6d584518069",
+    "team_member_id": "5",
+    "mood_rating": 1,
+    "energy_level": 3,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-23T00:00:00Z",
+    "created_at": "2025-10-23T20:37:00.000000Z"
+  },
+  {
+    "id": "cd0cfeb5-e235-4cf9-8c44-d44055ba8338",
+    "team_member_id": "5",
+    "mood_rating": 5,
+    "energy_level": 3,
+    "notes": "Challenging day, but staying positive.",
+    "checkin_date": "2025-10-24T00:00:00Z",
+    "created_at": "2025-10-24T17:45:00.000000Z"
+  },
+  {
+    "id": "8c4e4026-9584-4894-9e1c-4b14d758babe",
+    "team_member_id": "5",
+    "mood_rating": 2,
+    "energy_level": 5,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-25T00:00:00Z",
+    "created_at": "2025-10-25T09:55:00.000000Z"
+  },
+  {
+    "id": "06134bcf-5551-40ce-a19f-30a64dc7709b",
+    "team_member_id": "5",
+    "mood_rating": 2,
+    "energy_level": 5,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-26T00:00:00Z",
+    "created_at": "2025-10-26T17:18:00.000000Z"
+  },
+  {
+    "id": "28f7a8ed-69a2-443c-999b-3f42bcede534",
+    "team_member_id": "5",
+    "mood_rating": 2,
+    "energy_level": 5,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-27T00:00:00Z",
+    "created_at": "2025-10-27T10:46:00.000000Z"
+  },
+  {
+    "id": "d0bfffaf-62af-408c-9670-1cb680923cf1",
+    "team_member_id": "5",
+    "mood_rating": 3,
+    "energy_level": 1,
+    "notes": "Feeling good today!",
+    "checkin_date": "2025-10-28T00:00:00Z",
+    "created_at": "2025-10-28T20:49:00.000000Z"
+  },
+  {
+    "id": "b0a7dcb0-6951-4d7b-bf29-babda37e8c03",
+    "team_member_id": "5",
+    "mood_rating": 3,
+    "energy_level": 4,
+    "notes": "Need some rest.",
+    "checkin_date": "2025-10-29T00:00:00Z",
+    "created_at": "2025-10-29T14:35:00.000000Z"
+  },
+  {
+    "id": "2228121f-1d82-41f7-8730-377bb69fec6c",
+    "team_member_id": "5",
+    "mood_rating": 3,
+    "energy_level": 2,
+    "notes": "A bit tired but motivated.",
+    "checkin_date": "2025-10-30T00:00:00Z",
+    "created_at": "2025-10-30T22:21:00.000000Z"
+  },
+  {
+    "id": "8e74a33b-0e6b-4eef-ac27-189ff3ecc6c1",
+    "team_member_id": "5",
+    "mood_rating": 1,
+    "energy_level": 2,
+    "notes": "Great progress on tasks.",
+    "checkin_date": "2025-10-31T00:00:00Z",
+    "created_at": "2025-10-31T22:29:00.000000Z"
+  }
+]
