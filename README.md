@@ -10,7 +10,7 @@
 
 ## TL;DR
 - A production-grade **Team Mood Tracker Dashboard** for monitoring team wellbeing, mood, and energy trends.  
-- Built with **Next.js (SSR)**, **Firebase (Auth, Firestore)**, and **Recharts** for data visualization.  
+- Built with **Next.js (SSR)**, **PostgreSql**, and **Recharts** for data visualization.  
 - This repository is a curated showcase — the production codebase is private.
 
 ## Overview
@@ -50,7 +50,7 @@ docker run -p 3000:3000 team-mood-tracker
 ```
 <br>
 
-#### POST /api/checkins - Create new check-in
+### POST /api/checkins - Create new check-in
 ```js
 import { NextRequest, NextResponse } from "next/server";
 import { query } from "../../../lib/db";
