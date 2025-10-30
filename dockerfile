@@ -30,7 +30,7 @@ WORKDIR /app
 
 ENV NODE_ENV=production
 # Disable telemetry
-ENV NEXT_TELEMETRY_DISABLED 1
+ENV NEXT_TELEMETRY_DISABLED=1
 ENV DATABASE_URL=postgresql://postgres:BigChungus4!@34.45.68.90:5432/team_mood_tracker
 
 
